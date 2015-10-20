@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TCC</string>
+    <string name="prompt_ra">RA</string>
+    <string name="prompt_senha">Senha</string>
+    <string name="acao_entrar">Entrar</string>
+</resources>
